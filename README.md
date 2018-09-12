@@ -22,4 +22,7 @@
 
 #objective_c
 
+  * #dynamic_dispatch
+  * #objective_c_runtime
+
 #realm
