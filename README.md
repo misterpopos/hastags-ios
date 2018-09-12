@@ -2,4 +2,4 @@
 
 #uikit
 
-  #uislider
+  * #uislider
