@@ -4,7 +4,7 @@
 
   * #uislider
   
-#reactive_programming
+#reactive
 
 * #rxswift
 
