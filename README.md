@@ -11,3 +11,7 @@
   * #reactiveswift
 
 #mvvm
+
+#swift
+
+  * #structs
