@@ -8,6 +8,8 @@
 
 * #rxswift
 
+* #rxrealm
+
 * #reactivecocoa
 
   * #reactiveswift
