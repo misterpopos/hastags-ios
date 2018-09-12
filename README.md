@@ -6,6 +6,8 @@
 
 #rxswift
 
-#reactiveswift
+#reactivecocoa
+
+  * #reactiveswift
 
 #mvvm
