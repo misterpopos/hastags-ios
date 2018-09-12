@@ -18,4 +18,4 @@
 
   * #structs
 
-#objective-c
+#objective_c
